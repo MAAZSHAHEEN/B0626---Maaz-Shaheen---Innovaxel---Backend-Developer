@@ -106,3 +106,9 @@ B0626-Maaz-Shaheen-Innovaxel/
 
 **Maaz Shaheen**
 Assessment for Backend Developer Position — Innovaxel
+
+## 🌐 Live Demo
+
+API is live at: https://b0626-maaz-shaheen-innovaxel.fastapicloud.dev
+
+Interactive docs: https://b0626-maaz-shaheen-innovaxel.fastapicloud.dev/docs
